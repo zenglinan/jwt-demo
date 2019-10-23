@@ -1,19 +1,7 @@
-# jwt
+## JWT-demo
 
-## Project setup
-```
-npm install
-```
+### 前端部分：
+Vue + Vue-Router + Vuex
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 后端部分：
+Koa
